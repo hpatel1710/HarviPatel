@@ -1,4 +1,4 @@
-body {
+ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -73,18 +73,15 @@ hr{
   border-radius: 100%;
 }
 h3{
-  color: #874356;
-}
-.link{
   color: #F6E7D8;
+}
+.footer-link{
+  color: #F6E7D8;
+  display: inline;
+  cursor: pointer;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
 
-}
-.btn{
-  color: #F6E7D8;
-}
-.Phone{
-  color: #F6E7D8;
-  text-decoration: underline;
 }
 .MiddleContainer {
   background-color: #F2D1D1;
